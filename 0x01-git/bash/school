@@ -1,0 +1,3 @@
+ #!/bin/bash 
+ the school is open ! >> school
+echo  the school is open !
